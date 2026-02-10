@@ -12,3 +12,8 @@ print(marks [1])
 marks[4]=80
 print(marks)
 
+#list slicing is same as when we want to extrct the specific elements of the list
+
+print(marks[2:5])
+
+
